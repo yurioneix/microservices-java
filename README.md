@@ -17,7 +17,7 @@ Esse microsserviço realiza o cadastro de usuários e utiliza RabbitMQ para publ
   - Será necessário abrir uma conta gratuita na [ClouAMQP](https://www.cloudamqp.com/) para obter o RABBIT_MQ_ADDRESS.
     - Crie uma instância no plano gratuito.
     - Após criada, entre na instância e copie a URL presente em AMQP Details.
-  - Inicie a aplicação e comece a cadastrar usuários.
+- Inicie a aplicação e comece a cadastrar usuários.
 
 
 ## Endpoints
